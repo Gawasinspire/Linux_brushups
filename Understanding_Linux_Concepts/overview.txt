@@ -1,0 +1,9 @@
+Unix Vs Linux
+
+Unix was first developed for multi-user and multi-tasking in mid-1970 in Bell Labs 
+by ATT, GE and MIT.
+
+Linux:
+Linux by Linux Torvals is a open Source
+
+
