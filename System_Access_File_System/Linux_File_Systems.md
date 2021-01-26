@@ -46,3 +46,26 @@ eg. for tracing back *strace -e open pwd*
 
 
 > /tmp
+
+Directory for temporary files
+
+> /home 
+
+Directory for user
+
+> /var
+
+System logs. mainly for troubleshooting
+
+> /run
+
+System daemons that start ver early (e.g. systemd and udev) to store temporary runtime files like PID files
+
+> /mnt
+
+To mount external filesystem. (e.g. NFS)
+
+> /media
+
+For cdrom the mounts.
+
