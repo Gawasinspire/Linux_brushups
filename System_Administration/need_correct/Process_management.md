@@ -7,20 +7,23 @@ foreground --> fg
 Run process even after exit = 
 nohup process & OR = nohup process > /dev/null 2>&1 &
 
-pkill 
+> commands:
 
-processing priority = nice
+    - pkill  #process kill using pid 
 
-process monitoring = top
+    - nice  #processing priority 
+            - 
 
-list process = ps
+    - top #process monitoring
 
-sleep 5seconds  = sleep 5
+    - ps  #list live processes 
 
-jobs
+    - sleep 5 #sleep 5seconds 
 
-bg
+    - jobs  # list bg process
 
-fg
+    - bg    # set it to background and give the prompt to me 
 
-nohup       
+    - fg    # run the jobs in fg and take the prompt to you
+
+    - nohup   # instruct what to do with signals    
