@@ -1,0 +1,10 @@
+#!/bin/bash
+# Examples of variables
+
+
+a=Google
+b=misuseses
+c=opensource
+
+echo "$a $b $c"
+
