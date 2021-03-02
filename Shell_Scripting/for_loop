@@ -1,0 +1,8 @@
+
+# Description: for loop
+
+for i in eat run jump play
+do
+	echo $i
+done
+
