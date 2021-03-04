@@ -1,0 +1,5 @@
+are -ge ("greater-than or equal"),
+-lt ("less-than"),
+ -le ("less-than or equal"),
+ -eq ("equal") and
+ -ne ("not equal")
